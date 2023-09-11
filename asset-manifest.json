@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-app-akhilesh/static/css/main.791864a2.css",
+    "main.js": "/react-app-akhilesh/static/js/main.a0e7da54.js",
+    "static/js/787.9243050f.chunk.js": "/react-app-akhilesh/static/js/787.9243050f.chunk.js",
+    "index.html": "/react-app-akhilesh/index.html",
+    "main.791864a2.css.map": "/react-app-akhilesh/static/css/main.791864a2.css.map",
+    "main.a0e7da54.js.map": "/react-app-akhilesh/static/js/main.a0e7da54.js.map",
+    "787.9243050f.chunk.js.map": "/react-app-akhilesh/static/js/787.9243050f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.791864a2.css",
+    "static/js/main.a0e7da54.js"
+  ]
+}
